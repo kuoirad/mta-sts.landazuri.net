@@ -1,5 +1,5 @@
 version: STSv1
 mode: none
-mx: mx1.emailforward.net
-mx: mx2.emailforward.net
+mx: mx1.fowardemail.net
+mx: mx2.forwardemail.net
 max_age: 604800             
